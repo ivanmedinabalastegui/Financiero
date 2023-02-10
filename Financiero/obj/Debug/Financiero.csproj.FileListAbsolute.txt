@@ -1,0 +1,16 @@
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\MainWindow.g.cs
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\App.g.cs
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero_MarkupCompile.cache
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero_MarkupCompile.lref
+C:\Users\ivanm\source\repos\Financiero\bin\Debug\Financiero.exe.config
+C:\Users\ivanm\source\repos\Financiero\bin\Debug\Financiero.exe
+C:\Users\ivanm\source\repos\Financiero\bin\Debug\Financiero.pdb
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\MainWindow.baml
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.g.resources
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.Properties.Resources.resources
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.exe
+C:\Users\ivanm\source\repos\Financiero\obj\Debug\Financiero.pdb
